@@ -21,7 +21,7 @@ Quercetin-7-O-β-D-glucoside
 Hyperoside
 Medioresinol-7-O-β-D-glucoside
 Medioresinol-7-O-neohesperidoside
-Flavo-yadorinin-B
+Flavoyadorinin B
 Rhoifolin
 Rutin
 
@@ -64,29 +64,29 @@ L-Phenylalaninosecologanin
 (E)-Aldosecologanin
 Centauroside
 
-Lonijaposides A
-Lonijaposides B
-Lonijaposides C
-Lonijaposides D
-Lonijaposides E
-Lonijaposides F
-Lonijaposides G
-Lonijaposides H
-Lonijaposides I
-Lonijaposides J
-Lonijaposides K
-Lonijaposides L
-Lonijaposides M
-Lonijaposides N
-Lonijaposides O
-Lonijaposides P
-Lonijaposides Q
-Lonijaposides R
-Lonijaposides S
-Lonijaposides T
-Lonijaposides U
-Lonijaposides V
-Lonijaposides W
+Lonijaposide A
+Lonijaposide B
+Lonijaposide C
+Lonijaposide D
+Lonijaposide E
+Lonijaposide F
+Lonijaposide G
+Lonijaposide H
+Lonijaposide I
+Lonijaposide J
+Lonijaposide K
+Lonijaposide L
+Lonijaposide M
+Lonijaposide N
+Lonijaposide O
+Lonijaposide P
+Lonijaposide Q
+Lonijaposide R
+Lonijaposide S
+Lonijaposide T
+Lonijaposide U
+Lonijaposide V
+Lonijaposide W
 
 Lonijapospiroside A
 L-Phenylalaninosecologanin B
