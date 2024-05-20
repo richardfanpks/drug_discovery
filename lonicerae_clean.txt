@@ -1,0 +1,120 @@
+5,7-Dihydroxyflavone
+5-Hydroxy-7,4′-dimethoxyflavone
+5-Hydroxy-7,3′,4′-trimethoxyflavone
+5-Hydroxy-7,3′,4′,5′-tetramethoxyflavone
+3′,4′,5′,5,7-Pentamethoxyflavone
+Luteolin
+3′-Methoxyluteolin
+5,3′-Dimethoxyluteolin
+Luteolin-7-O-β-D-glucoside
+Luteolin-7-O-β-D-galactoside
+Luteolin-5-O-β-D-glucoside
+Luteolin-3′-O-L-rhamnoside
+Jaceosidin
+Jaceosidin-7-O-neohesperidoside
+Lonicerin
+Kaempferol-3-O-β-D-glucoside
+Apigenin-7-O-α-L-rhamnoside
+Quercetin
+Quercetin-3-O-β-D-glucoside
+Quercetin-7-O-β-D-glucoside
+Hyperoside
+Medioresinol-7-O-β-D-glucoside
+Medioresinol-7-O-neohesperidoside
+Flavo-yadorinin-B
+Rhoifolin
+Rutin
+
+Loganin
+7-Epiloganin
+8-Epiloganin
+Loganic Acid
+Ketologanin
+
+Secologanin
+Secologanin Dimethyl Acetal
+Sweroside
+7-O-Ethyl Sweroside
+Secologanoside-7-Methyl Ester
+Kingiside
+7α-Morroniside
+7β-Morroniside
+Dehydromorroniside
+Vogeloside
+Epi-vogeloside
+Secoxyloganin
+Secoxyloganin 7-Butyl Ester
+Secologanic Acid
+Secologanoside
+Secologanoside A
+Dimethyl Secologanoside
+Adinoside A
+Stryspinoside
+Loniceracetalide A
+Loniceracetalide B
+Loniphenyruviridoside A
+Loniphenyruviridoside B
+Loniphenyruviridoside C
+Loniphenyruviridoside D
+
+L-Phenylalaninosecologanin
+7-O-(4-β-D-Glucopyranosyloxy-3-Methoxy Benzoyl) Secologanolic Acid
+6′-O-(7α-Hydroxyswerosyloxy) Loganin
+(Z)-Aldosecologanin
+(E)-Aldosecologanin
+Centauroside
+
+Lonijaposides A
+Lonijaposides B
+Lonijaposides C
+Lonijaposides D
+Lonijaposides E
+Lonijaposides F
+Lonijaposides G
+Lonijaposides H
+Lonijaposides I
+Lonijaposides J
+Lonijaposides K
+Lonijaposides L
+Lonijaposides M
+Lonijaposides N
+Lonijaposides O
+Lonijaposides P
+Lonijaposides Q
+Lonijaposides R
+Lonijaposides S
+Lonijaposides T
+Lonijaposides U
+Lonijaposides V
+Lonijaposides W
+
+Lonijapospiroside A
+L-Phenylalaninosecologanin B
+L-Phenylalaninosecologanin C
+Deoxyoprolinoyiloganin A
+Lonicerjaponin A
+Lonicerjaponin B
+Two Nicotinic Acid Derivatives
+
+Palmitic Acid
+Myristic Acid
+Protocatechuic Acid
+Caffeic Acid
+Ferulic Acid
+2(E)-3-Ethoxyacrylic Acid
+Caffeic Acid Methyl Ester
+3-(3,4-Dihydroxyphenyl) Propionic Acid
+4-Hydroxycinnamic Acid
+4-Hydroxycinnamic Acid Methyl Ester
+
+Chlorogenic Acid
+3-Caffeoylquinic Acid Methyl Ester
+4-Caffeoylquinic Acid
+5-Caffeoylquinic Acid
+3,4-Dicaffeoylquinic Acid
+4,5-Dicaffeoylquinic Acid
+3,5-Dicaffeoylquinic Acid
+3,5-Dicaffeoylquinic Acid Methyl Ester
+3,5-Dicaffeoylquinic Acid Butyl Ester
+
+Vanillic Acid 4-O-β-D-6-O-Benzoylglucopyranoside
