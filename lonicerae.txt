@@ -1,0 +1,109 @@
+5,7-Dihydroxyflavone
+5-Hydroxy-7,4′-dimethoxyflavone
+5-Hydroxy-7,3′,4′-trimethoxyflavone
+5-Hydroxy-7,3′,4′,5′-tetramethoxyflavone
+3′,4′,5′,5,7-Pentamethoxyflavone
+Luteolin
+3′-Methoxyluteolin
+5,3′-Dimethoxyluteolin
+Luteolin-7-O-β-D-glucoside
+Luteolin-7-O-β-D-galactoside
+Luteolin-5-O-β-D-glucoside
+Luteolin-3′-O-L-rhamnoside
+Jaceosidin
+Jaceosidin-7-O-neohesperidoside
+Lonicerin
+Kaempferol-3-O-β-D-glucoside
+Apigenin-7-O-α-L-rhamnoside
+Quercetin
+Quercetin-3-O-β-D-glucoside
+Quercetin-7-O-β-D-glucoside
+Hyperoside
+Medioresinol-7-O-β-D-glucoside
+Medioresinol-7-O-neohesperidoside
+Flavo-yadorinin-B
+Rhoifolin
+Rutin
+
+Loganin (33)
+7-Epiloganin (34)
+8-Epiloganin (35)
+Loganic Acid (36)
+Ketologanin (37
+
+Secologanin (38)
+Secologanin Dimethyl Acetal (39)
+Sweroside (40)
+7-O-Ethyl Sweroside (41)
+Secologanoside-7-Methyl Ester (42)
+Kingiside (43)
+7α-Morroniside (44)
+7β-Morroniside (45)
+Dehydromorroniside (46)
+Vogeloside (47)
+Epi-vogeloside (48)
+Secoxyloganin (49)
+Secoxyloganin 7-Butyl Ester (50)
+Secologanic Acid (51)
+Secologanoside (52)
+Secologanoside A (53)
+Dimethyl Secologanoside (54)
+Adinoside A (55)
+Stryspinoside (56)
+Loniceracetalide A (57)
+Loniceracetalide B (58)
+Loniphenyruviridoside A-D (59-62)
+
+L-Phenylalaninosecologanin (63)
+7-O-(4-β-D-Glucopyranosyloxy-3-Methoxy Benzoyl) Secologanolic Acid (64)
+6′-O-(7α-Hydroxyswerosyloxy) Loganin (65)
+(Z)-Aldosecologanin (66)
+(E)-Aldosecologanin (67)
+Centauroside (68)
+
+Lonijaposides A (69)
+Lonijaposides B (70)
+Lonijaposides C (71)
+Lonijaposides D (72)
+Lonijaposides E (73)
+Lonijaposides F (74)
+Lonijaposides G (75)
+Lonijaposides H (76)
+Lonijaposides I (77)
+Lonijaposides J (78)
+Lonijaposides K (79)
+Lonijaposides L (80)
+Lonijaposides M (81)
+Lonijaposides N (82)
+Lonijaposides O-W (83-91)
+
+Lonijapospiroside A (92)
+L-Phenylalaninosecologanin B (93)
+L-Phenylalaninosecologanin C (94)
+Deoxyoprolinoyiloganin A (95)
+Lonicerjaponin A (96)
+Lonicerjaponin B (97)
+Two Nicotinic Acid Derivatives (98, 99)
+
+Palmitic Acid (114)
+Myristic Acid (115)
+Protocatechuic Acid (116)
+Caffeic Acid (117)
+Ferulic Acid (118)
+2(E)-3-Ethoxyacrylic Acid (119)
+Caffeic Acid Methyl Ester (120)
+3-(3,4-Dihydroxyphenyl) Propionic Acid (121)
+4-Hydroxycinnamic Acid (122)
+4-Hydroxycinnamic Acid Methyl Ester (123)
+
+Chlorogenic Acid (124)
+3-Caffeoylquinic Acid Methyl Ester (125)
+4-Caffeoylquinic Acid (126)
+5-Caffeoylquinic Acid (127)
+3,4-Dicaffeoylquinic Acid (128)
+4,5-Dicaffeoylquinic Acid (129)
+3,5-Dicaffeoylquinic Acid (130)
+3,5-Dicaffeoylquinic Acid Methyl Ester (131)
+3,5-Dicaffeoylquinic Acid Butyl Ester (132)
+
+Vanillic Acid 4-O-β-D-6-O-Benzoylglucopyranoside (133
