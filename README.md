@@ -1,3 +1,6 @@
+This repo contains code that I wrote for my project and paper
+"Bridging Herbal Medicines and Modern Pharmaceuticals Using Machine Learning: A Case Study of Lonicerae flos for Acne"
+
 # This file
 README.md
 
